@@ -1,0 +1,7 @@
+/.mypy_cache
+/.old
+/.vscode
+/database.db
+/src
+/vaults
+/venv
