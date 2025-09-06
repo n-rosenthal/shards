@@ -1,0 +1,60 @@
+[ERROR] [2025-07-21 20:53:28] [database:32] [DatabaseService.__init__()] Error loading config: 'str' object has no attribute 'get'
+[ERROR] [2025-07-21 20:53:28] [database:32] [DatabaseService.__init__()] Error loading config: 'str' object has no attribute 'get'
+[ERROR] [2025-07-21 20:54:44] [database:32] [DatabaseService.__init__()] Error loading config: 'str' object has no attribute 'get'
+[ERROR] [2025-07-21 20:54:44] [database:32] [DatabaseService.__init__()] Error loading config: 'str' object has no attribute 'get'
+[ERROR] [2025-07-21 20:55:26] [database:32] [DatabaseService.__init__()] Error loading config: 'str' object has no attribute 'get'
+[ERROR] [2025-07-21 20:55:26] [database:32] [DatabaseService.__init__()] Error loading config: 'str' object has no attribute 'get'
+[INFO] [2025-07-21 20:55:41] [database:34] [DatabaseService.__init__()] Using database URL: sqlite:///obsidian.db
+[INFO] [2025-07-21 20:55:41] [database:42] [DatabaseService.__init__()] Engine created
+[INFO] [2025-07-21 20:55:41] [database:51] [DatabaseService.__init__()] Session created
+[INFO] [2025-07-21 20:55:41] [database:34] [DatabaseService.__init__()] Using database URL: sqlite:///obsidian.db
+[INFO] [2025-07-21 20:55:41] [database:42] [DatabaseService.__init__()] Engine created
+[INFO] [2025-07-21 20:55:41] [database:51] [DatabaseService.__init__()] Session created
+[INFO] [2025-07-21 20:55:49] [database:34] [DatabaseService.__init__()] Using database URL: sqlite:///obsidian.db
+[INFO] [2025-07-21 20:55:49] [database:42] [DatabaseService.__init__()] Engine created
+[INFO] [2025-07-21 20:55:49] [database:51] [DatabaseService.__init__()] Session created
+[INFO] [2025-07-21 20:55:49] [database:34] [DatabaseService.__init__()] Using database URL: sqlite:///obsidian.db
+[INFO] [2025-07-21 20:55:49] [database:42] [DatabaseService.__init__()] Engine created
+[INFO] [2025-07-21 20:55:49] [database:51] [DatabaseService.__init__()] Session created
+[INFO] [2025-07-21 20:55:58] [database:33] [DatabaseService.__init__()] Config loaded
+[ERROR] [2025-07-21 20:55:58] [database:38] [DatabaseService.__init__()] Error loading config: string indices must be integers
+[INFO] [2025-07-21 20:55:58] [database:33] [DatabaseService.__init__()] Config loaded
+[ERROR] [2025-07-21 20:55:58] [database:38] [DatabaseService.__init__()] Error loading config: string indices must be integers
+[INFO] [2025-07-21 20:56:30] [database:33] [DatabaseService.__init__()] Config loaded
+[ERROR] [2025-07-21 20:56:30] [database:38] [DatabaseService.__init__()] Error loading config: string indices must be integers
+[INFO] [2025-07-21 20:56:30] [database:33] [DatabaseService.__init__()] Config loaded
+[ERROR] [2025-07-21 20:56:30] [database:38] [DatabaseService.__init__()] Error loading config: string indices must be integers
+[INFO] [2025-07-21 20:57:19] [database:33] [DatabaseService.__init__()] Engine created
+[INFO] [2025-07-21 20:57:19] [database:42] [DatabaseService.__init__()] Session created
+[INFO] [2025-07-21 20:57:19] [database:33] [DatabaseService.__init__()] Engine created
+[INFO] [2025-07-21 20:57:19] [database:42] [DatabaseService.__init__()] Session created
+[INFO] [2025-07-21 20:58:45] [database:33] [DatabaseService.__init__()] Engine created
+[INFO] [2025-07-21 20:58:45] [database:42] [DatabaseService.__init__()] Session created
+[INFO] [2025-07-21 20:58:45] [database:33] [DatabaseService.__init__()] Engine created
+[INFO] [2025-07-21 20:58:45] [database:42] [DatabaseService.__init__()] Session created
+[INFO] [2025-07-21 21:02:13] [database:33] [DatabaseService.__init__()] Engine created
+[INFO] [2025-07-21 21:02:13] [database:42] [DatabaseService.__init__()] Session created
+[INFO] [2025-07-21 21:02:17] [database:33] [DatabaseService.__init__()] Engine created
+[INFO] [2025-07-21 21:02:17] [database:42] [DatabaseService.__init__()] Session created
+[INFO] [2025-07-21 21:02:48] [database:33] [DatabaseService.__init__()] Engine created
+[INFO] [2025-07-21 21:02:48] [database:42] [DatabaseService.__init__()] Session created
+[INFO] [2025-07-21 21:04:44] [database:33] [DatabaseService.__init__()] Engine created
+[INFO] [2025-07-21 21:04:44] [database:42] [DatabaseService.__init__()] Session created
+[INFO] [2025-07-21 21:04:44] [database:33] [DatabaseService.__init__()] Engine created
+[INFO] [2025-07-21 21:04:44] [database:42] [DatabaseService.__init__()] Session created
+[INFO] [2025-07-21 21:05:16] [database:33] [DatabaseService.__init__()] Engine created
+[INFO] [2025-07-21 21:05:16] [database:42] [DatabaseService.__init__()] Session created
+[INFO] [2025-07-21 21:05:16] [database:33] [DatabaseService.__init__()] Engine created
+[INFO] [2025-07-21 21:05:16] [database:42] [DatabaseService.__init__()] Session created
+[INFO] [2025-07-21 21:16:17] [database:33] [DatabaseService.__init__()] Engine created
+[INFO] [2025-07-21 21:16:17] [database:42] [DatabaseService.__init__()] Session created
+[INFO] [2025-07-21 21:16:17] [database:33] [DatabaseService.__init__()] Engine created
+[INFO] [2025-07-21 21:16:17] [database:42] [DatabaseService.__init__()] Session created
+[INFO] [2025-07-21 21:16:39] [database:33] [DatabaseService.__init__()] Engine created
+[INFO] [2025-07-21 21:16:39] [database:42] [DatabaseService.__init__()] Session created
+[INFO] [2025-07-21 21:16:39] [database:33] [DatabaseService.__init__()] Engine created
+[INFO] [2025-07-21 21:16:39] [database:42] [DatabaseService.__init__()] Session created
+[INFO] [2025-07-21 21:18:26] [database:33] [DatabaseService.__init__()] Engine created
+[INFO] [2025-07-21 21:18:26] [database:42] [DatabaseService.__init__()] Session created
+[INFO] [2025-07-21 21:18:26] [database:33] [DatabaseService.__init__()] Engine created
+[INFO] [2025-07-21 21:18:26] [database:42] [DatabaseService.__init__()] Session created

@@ -1,0 +1,8 @@
+[INFO] [2025-07-21 21:16:39] [vault:21] [VaultManager.__init__()] initialized VaultManager for path `./vaults/b/b`
+[INFO] [2025-07-21 21:16:39] [vault:32] [VaultManager.__init__()] < [DatabaseService()] Database initialized for VaultManager
+[DEBUG] [2025-07-21 21:16:39] [vault:47] [VaultManager.scan_vault()] processed file: 1, vaults/b/b/(fleeting thought) persistência da alma.md
+[INFO] [2025-07-21 21:16:39] [vault:49] [VaultManager.scan_vault()] Processed 1 files
+[INFO] [2025-07-21 21:18:26] [vault:21] [VaultManager.__init__()] initialized VaultManager for path `./vaults/b/b`
+[INFO] [2025-07-21 21:18:26] [vault:32] [VaultManager.__init__()] < [DatabaseService()] Database initialized for VaultManager
+[DEBUG] [2025-07-21 21:18:26] [vault:47] [VaultManager.scan_vault()] processed file: 1, "vaults/b/b/(fleeting thought) persistência da alma.md"
+[INFO] [2025-07-21 21:18:26] [vault:49] [VaultManager.scan_vault()] Processed 1 files

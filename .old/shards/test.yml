@@ -1,0 +1,6 @@
+
+        name: "test"
+        children:
+            - name: "test1"
+            - name: "test2"
+        

@@ -1,0 +1,4 @@
+sqlalchemy
+pyyaml
+watchdog  # For future file monitoring
+python-dotenv  # For configuration

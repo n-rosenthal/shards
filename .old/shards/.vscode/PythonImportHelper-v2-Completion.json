@@ -1,0 +1,559 @@
+[
+    {
+        "label": "datetime;",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime;",
+        "description": "datetime;",
+        "detail": "datetime;",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy                ",
+        "description": "sqlalchemy                ",
+        "isExtraImport": true,
+        "detail": "sqlalchemy                ",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy                ",
+        "description": "sqlalchemy                ",
+        "isExtraImport": true,
+        "detail": "sqlalchemy                ",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy                ",
+        "description": "sqlalchemy                ",
+        "isExtraImport": true,
+        "detail": "sqlalchemy                ",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy                ",
+        "description": "sqlalchemy                ",
+        "isExtraImport": true,
+        "detail": "sqlalchemy                ",
+        "documentation": {}
+    },
+    {
+        "label": "JSON",
+        "importPath": "sqlalchemy                ",
+        "description": "sqlalchemy                ",
+        "isExtraImport": true,
+        "detail": "sqlalchemy                ",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy                ",
+        "description": "sqlalchemy                ",
+        "isExtraImport": true,
+        "detail": "sqlalchemy                ",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy                ",
+        "description": "sqlalchemy                ",
+        "isExtraImport": true,
+        "detail": "sqlalchemy                ",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy                ",
+        "description": "sqlalchemy                ",
+        "isExtraImport": true,
+        "detail": "sqlalchemy                ",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy                ",
+        "description": "sqlalchemy                ",
+        "isExtraImport": true,
+        "detail": "sqlalchemy                ",
+        "documentation": {}
+    },
+    {
+        "label": "JSON",
+        "importPath": "sqlalchemy                ",
+        "description": "sqlalchemy                ",
+        "isExtraImport": true,
+        "detail": "sqlalchemy                ",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "core.models.models                    ",
+        "description": "core.models.models                    ",
+        "isExtraImport": true,
+        "detail": "core.models.models                    ",
+        "documentation": {}
+    },
+    {
+        "label": "docid",
+        "importPath": "core.models.docid                     ",
+        "description": "core.models.docid                     ",
+        "isExtraImport": true,
+        "detail": "core.models.docid                     ",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "core.models.document",
+        "description": "core.models.document",
+        "isExtraImport": true,
+        "detail": "core.models.document",
+        "documentation": {}
+    },
+    {
+        "label": "Link",
+        "importPath": "core.models.document",
+        "description": "core.models.document",
+        "isExtraImport": true,
+        "detail": "core.models.document",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "core.models.models",
+        "description": "core.models.models",
+        "isExtraImport": true,
+        "detail": "core.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "core.models.models",
+        "description": "core.models.models",
+        "isExtraImport": true,
+        "detail": "core.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "core.models.models",
+        "description": "core.models.models",
+        "isExtraImport": true,
+        "detail": "core.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "JSON",
+        "importPath": "core.models.models",
+        "description": "core.models.models",
+        "isExtraImport": true,
+        "detail": "core.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "core.models.models",
+        "description": "core.models.models",
+        "isExtraImport": true,
+        "detail": "core.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "docid",
+        "importPath": "core.models.docid",
+        "description": "core.models.docid",
+        "isExtraImport": true,
+        "detail": "core.models.docid",
+        "documentation": {}
+    },
+    {
+        "label": "logging;",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging;",
+        "description": "logging;",
+        "detail": "logging;",
+        "documentation": {}
+    },
+    {
+        "label": "yaml_parse",
+        "importPath": "core.services.parsers.yaml_parse",
+        "description": "core.services.parsers.yaml_parse",
+        "isExtraImport": true,
+        "detail": "core.services.parsers.yaml_parse",
+        "documentation": {}
+    },
+    {
+        "label": "yaml_parse",
+        "importPath": "core.services.parsers.yaml_parse",
+        "description": "core.services.parsers.yaml_parse",
+        "isExtraImport": true,
+        "detail": "core.services.parsers.yaml_parse",
+        "documentation": {}
+    },
+    {
+        "label": "yaml_get",
+        "importPath": "core.services.parsers.yaml_parse",
+        "description": "core.services.parsers.yaml_parse",
+        "isExtraImport": true,
+        "detail": "core.services.parsers.yaml_parse",
+        "documentation": {}
+    },
+    {
+        "label": "yaml_extract",
+        "importPath": "src.core.services.parsers.yaml_parse",
+        "description": "src.core.services.parsers.yaml_parse",
+        "isExtraImport": true,
+        "detail": "src.core.services.parsers.yaml_parse",
+        "documentation": {}
+    },
+    {
+        "label": "yaml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml",
+        "description": "yaml",
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "yaml_to_str",
+        "importPath": "core.services.writers.yaml_writer",
+        "description": "core.services.writers.yaml_writer",
+        "isExtraImport": true,
+        "detail": "core.services.writers.yaml_writer",
+        "documentation": {}
+    },
+    {
+        "label": "yaml;",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml;",
+        "description": "yaml;",
+        "detail": "yaml;",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "core.models.notes",
+        "description": "core.models.notes",
+        "isExtraImport": true,
+        "detail": "core.models.notes",
+        "documentation": {}
+    },
+    {
+        "label": "Note",
+        "importPath": "core.models.notes",
+        "description": "core.models.notes",
+        "isExtraImport": true,
+        "detail": "core.models.notes",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseService",
+        "importPath": "core.services.database",
+        "description": "core.services.database",
+        "isExtraImport": true,
+        "detail": "core.services.database",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseService",
+        "importPath": "core.services.database",
+        "description": "core.services.database",
+        "isExtraImport": true,
+        "detail": "core.services.database",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "setup_logging",
+        "importPath": "logs.logging_config",
+        "description": "logs.logging_config",
+        "isExtraImport": true,
+        "detail": "logs.logging_config",
+        "documentation": {}
+    },
+    {
+        "label": "VaultManager",
+        "importPath": "core.services.vault",
+        "description": "core.services.vault",
+        "isExtraImport": true,
+        "detail": "core.services.vault",
+        "documentation": {}
+    },
+    {
+        "label": "docid",
+        "kind": 2,
+        "importPath": "src.core.models.docid",
+        "description": "src.core.models.docid",
+        "peekOfCode": "def docid():\n    \"\"\"\n        Generate a unique identifier in the form YYYYMMDDHHMMSSFFF format.\n    \"\"\"\n    return datetime.datetime.now().strftime('%Y%m%d%H%M%S%f');",
+        "detail": "src.core.models.docid",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "kind": 6,
+        "importPath": "src.core.models.document",
+        "description": "src.core.models.document",
+        "peekOfCode": "class Document(Base):\n    \"\"\"\n        Base class for other text-based, Markdown documents.\n    \"\"\"\n    __tablename__ = \"document\"\n    doc_id      = Column(String, primary_key=True)\n    doctype     = Column(String(50), default='document')\n    name        = Column(String(255), nullable=False)\n    filepath    = Column(String(512), unique=True, nullable=False)\n    tags        = Column(JSON, default=[])",
+        "detail": "src.core.models.document",
+        "documentation": {}
+    },
+    {
+        "label": "Link",
+        "kind": 6,
+        "importPath": "src.core.models.document",
+        "description": "src.core.models.document",
+        "peekOfCode": "class Link(Base):\n    \"\"\"\n        Stablish a link between two documents.\n    \"\"\"\n    __tablename__ = \"link\"\n    doc_from    = Column(String, primary_key=True)\n    doc_to      = Column(String, primary_key=True)\n    created_at  = Column(DateTime, default=datetime.datetime.now())\n    def __init__(self, doc_from: str, doc_to: str):\n        self.doc_from = doc_from;",
+        "detail": "src.core.models.document",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentGraph",
+        "kind": 6,
+        "importPath": "src.core.models.document",
+        "description": "src.core.models.document",
+        "peekOfCode": "class DocumentGraph(Base):\n    __tablename__ = \"document_graph\"\n    graph_id: int = Column(Integer, primary_key=True, autoincrement=True);\n    documents: list[Document] = Column(JSON);\n    links: list[Link] = Column(JSON);\n    \"\"\"\n        A `DocumentGraph` is a relation of `Document` objects and `Link` objects that connect them. It is, therefore, a graph of `Document` vertices and `Link` edges.\n    \"\"\"\n    def __init__(self, documents: list[Document], links: list[Link]):\n        self.documents = documents;",
+        "detail": "src.core.models.document",
+        "documentation": {}
+    },
+    {
+        "label": "to_root",
+        "kind": 2,
+        "importPath": "src.core.models.document",
+        "description": "src.core.models.document",
+        "peekOfCode": "def to_root(doc: Document) -> Link:\n    \"\"\"\n        Connects the given document to the `ROOT_DOCUMENT` in the database.\n    \"\"\"\n    return Link.create(doc_from=doc.doc_id, doc_to=ROOT_DOCUMENT.doc_id);",
+        "detail": "src.core.models.document",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "src.core.models.models",
+        "description": "src.core.models.models",
+        "peekOfCode": "Base = declarative_base()",
+        "detail": "src.core.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Note",
+        "kind": 6,
+        "importPath": "src.core.models.notes",
+        "description": "src.core.models.notes",
+        "peekOfCode": "class Note(Base):\n    __tablename__ = 'note'\n    doc_id      = Column(String, primary_key=True)\n    doctype     = Column(String(50), default='document')\n    name        = Column(String(255), nullable=False)\n    filepath    = Column(String(512), unique=True, nullable=False)\n    tags        = Column(JSON, default=[])\n    content     = Column(JSON, default={})\n    \"\"\"\n        A `Note` is a document composed of a `yaml_header` and a `body` in Markdown format, both are fields of the `content` dictionary parameter.",
+        "detail": "src.core.models.notes",
+        "documentation": {}
+    },
+    {
+        "label": "ft_parse",
+        "kind": 2,
+        "importPath": "src.core.services.parsers.ftparser",
+        "description": "src.core.services.parsers.ftparser",
+        "peekOfCode": "def ft_parse(fleeting_thought_text: str) -> FleetingThought | None:\n    \"\"\"\n        Tries to parse a `fleeting-thought` note.\n    \"\"\"\n    try:\n        yaml_header: dict = yaml_parse(yaml_extract(fleeting_thought_text));\n        if yaml_header:\n            doctype: str = yaml_header.get('doctype');\n            if doctype == 'fleeting-thought':\n                title: str = yaml_header.get('title');",
+        "detail": "src.core.services.parsers.ftparser",
+        "documentation": {}
+    },
+    {
+        "label": "FleetingThought",
+        "kind": 5,
+        "importPath": "src.core.services.parsers.ftparser",
+        "description": "src.core.services.parsers.ftparser",
+        "peekOfCode": "FleetingThought = dict[str, str | list[str] | str];\ndef ft_parse(fleeting_thought_text: str) -> FleetingThought | None:\n    \"\"\"\n        Tries to parse a `fleeting-thought` note.\n    \"\"\"\n    try:\n        yaml_header: dict = yaml_parse(yaml_extract(fleeting_thought_text));\n        if yaml_header:\n            doctype: str = yaml_header.get('doctype');\n            if doctype == 'fleeting-thought':",
+        "detail": "src.core.services.parsers.ftparser",
+        "documentation": {}
+    },
+    {
+        "label": "yaml_extract",
+        "kind": 2,
+        "importPath": "src.core.services.parsers.yaml_parse",
+        "description": "src.core.services.parsers.yaml_parse",
+        "peekOfCode": "def yaml_extract(text: str) -> str | None:\n    \"\"\"\n    Extract YAML frontmatter from the given text.\n    If the given text contains YAML frontmatter in the form of a block\n    starting with \"---\" and ending with \"---\", then this function\n    returns that block. Otherwise, it returns None.\n    :param text: The text to extract YAML frontmatter from\n    :return: The extracted YAML frontmatter if found, else None\n    \"\"\"\n    pattern = r'^\\s*---\\s*\\n(.*?)\\n\\s*---\\s*(\\n|$)'",
+        "detail": "src.core.services.parsers.yaml_parse",
+        "documentation": {}
+    },
+    {
+        "label": "yaml_parse",
+        "kind": 2,
+        "importPath": "src.core.services.parsers.yaml_parse",
+        "description": "src.core.services.parsers.yaml_parse",
+        "peekOfCode": "def yaml_parse(yaml_string: str) -> dict | None:\n    try:\n        #   Remove delimiters\n        yaml_string = yaml_string.strip('---\\n')\n        # Load the first document from the YAML string\n        yaml_dict = yaml.safe_load(yaml_string)\n        if isinstance(yaml_dict, dict) and yaml_dict:\n            logger.info(\"[yaml_parse()] < [yaml.safe_load()]] Successfully parsed YAML\")\n            return yaml_dict\n        else:",
+        "detail": "src.core.services.parsers.yaml_parse",
+        "documentation": {}
+    },
+    {
+        "label": "yaml_to_str",
+        "kind": 2,
+        "importPath": "src.core.services.parsers.yaml_parse",
+        "description": "src.core.services.parsers.yaml_parse",
+        "peekOfCode": "def yaml_to_str(yaml_str: str) -> str:\n    try:\n        #   Remove delimiters\n        yaml_str = yaml_str.strip('---\\n');\n        return yaml.dump(yaml.safe_load(yaml_str));\n    except yaml.YAMLError as e:\n        logger.error(\"[yaml_to_str()] < [yaml.dump()]] YAML dumping error: %s\", e)\n    except Exception as e:\n        logger.exception(\"[yaml_to_str()] < [yaml.dump()]] Unexpected error during dumping\\n\\t%s\", e)\n    return \"\"",
+        "detail": "src.core.services.parsers.yaml_parse",
+        "documentation": {}
+    },
+    {
+        "label": "yaml_get",
+        "kind": 2,
+        "importPath": "src.core.services.parsers.yaml_parse",
+        "description": "src.core.services.parsers.yaml_parse",
+        "peekOfCode": "def yaml_get(text: str) -> tuple[str | None, str | None]:\n    try:\n        #   frontmatter\n        yaml_frontmatter: str | None = yaml_extract(text);\n        if yaml_frontmatter:\n            yaml_frontmatter = yaml_to_str(yaml_frontmatter);\n        else:\n            yaml_frontmatter = \"\";\n        #   remainder: clear from --- to ---\n        text = re.sub(r'^\\s*---\\s*\\n(.*?)\\n\\s*---\\s*(\\n|$)', '', text, flags=re.DOTALL);",
+        "detail": "src.core.services.parsers.yaml_parse",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "src.core.services.parsers.yaml_parse",
+        "description": "src.core.services.parsers.yaml_parse",
+        "peekOfCode": "logger = logging.getLogger(\"yaml_parse\");\ndef yaml_extract(text: str) -> str | None:\n    \"\"\"\n    Extract YAML frontmatter from the given text.\n    If the given text contains YAML frontmatter in the form of a block\n    starting with \"---\" and ending with \"---\", then this function\n    returns that block. Otherwise, it returns None.\n    :param text: The text to extract YAML frontmatter from\n    :return: The extracted YAML frontmatter if found, else None\n    \"\"\"",
+        "detail": "src.core.services.parsers.yaml_parse",
+        "documentation": {}
+    },
+    {
+        "label": "ft_write",
+        "kind": 2,
+        "importPath": "src.core.services.writers.ftwriter",
+        "description": "src.core.services.writers.ftwriter",
+        "peekOfCode": "def ft_write(title: str, date: str, body: str, tags: list[str] = [], keywords: list[str] = []) -> str:\n    #   replaces the title and the date in the template\n    fleeting_thought_note = FLEETING_THOUGHT_FORMAT.replace('<title>', title).replace('<date>', date);\n    #   if there are tags, append them\n    if len(tags) > 0:\n        _tags: str = ',\\n  - fleeting-thought' + '\\n  - '.join(tags);\n        fleeting_thought_note = fleeting_thought_note.replace(',\\n  - fleeting-thought', _tags);\n    #   if there are keywords, append them\n    if len(keywords) > 0:\n        _keywords: str = ',\\n' + '\\n  - '.join(keywords);",
+        "detail": "src.core.services.writers.ftwriter",
+        "documentation": {}
+    },
+    {
+        "label": "yaml_to_str",
+        "kind": 2,
+        "importPath": "src.core.services.writers.yaml_writer",
+        "description": "src.core.services.writers.yaml_writer",
+        "peekOfCode": "def yaml_to_str(yaml_header: dict) -> str:\n    \"\"\"\n        Converts a dictionary to a YAML string.\n    \"\"\"\n    return yaml.dump(yaml_header);",
+        "detail": "src.core.services.writers.yaml_writer",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseService",
+        "kind": 6,
+        "importPath": "src.core.services.database",
+        "description": "src.core.services.database",
+        "peekOfCode": "class DatabaseService:\n    def __init__(self, db_url='sqlite:///obsidian.db', config_path='config.yaml'):\n        \"\"\"\n        Initializes the database service.\n        Args:\n            db_url (str): The database URL.\n            config_path (str): The path to the configuration file.\n        \"\"\"        \n        try:\n            self.engine = create_engine(db_url);",
+        "detail": "src.core.services.database",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "src.core.services.database",
+        "description": "src.core.services.database",
+        "peekOfCode": "logger = logging.getLogger(\"database\");\nclass DatabaseService:\n    def __init__(self, db_url='sqlite:///obsidian.db', config_path='config.yaml'):\n        \"\"\"\n        Initializes the database service.\n        Args:\n            db_url (str): The database URL.\n            config_path (str): The path to the configuration file.\n        \"\"\"        \n        try:",
+        "detail": "src.core.services.database",
+        "documentation": {}
+    },
+    {
+        "label": "VaultManager",
+        "kind": 6,
+        "importPath": "src.core.services.vault",
+        "description": "src.core.services.vault",
+        "peekOfCode": "class VaultManager:\n    def __init__(self, vault_path: str):\n        #   Check if vault path is valid\n        if not Path(vault_path).is_dir():\n            logger.error(f\"[VaultManager.__init__()] Invalid vault path: {vault_path}\");\n            return None;\n        logger.info(f\"[VaultManager.__init__()] initialized VaultManager for path `{vault_path}`\");\n        self.vault_path = Path(vault_path);\n        #   Initialize database\n        self.db = DatabaseService();",
+        "detail": "src.core.services.vault",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "src.core.services.vault",
+        "description": "src.core.services.vault",
+        "peekOfCode": "logger = logging.getLogger(\"vault\");\nfrom pathlib import Path\nfrom core.services.database import DatabaseService\nclass VaultManager:\n    def __init__(self, vault_path: str):\n        #   Check if vault path is valid\n        if not Path(vault_path).is_dir():\n            logger.error(f\"[VaultManager.__init__()] Invalid vault path: {vault_path}\");\n            return None;\n        logger.info(f\"[VaultManager.__init__()] initialized VaultManager for path `{vault_path}`\");",
+        "detail": "src.core.services.vault",
+        "documentation": {}
+    },
+    {
+        "label": "setup_logging",
+        "kind": 2,
+        "importPath": "src.logs.logging_config",
+        "description": "src.logs.logging_config",
+        "peekOfCode": "def setup_logging(log_dir=\"logs\", log_level=logging.INFO):\n    \"\"\"Configure root logger for the entire application\"\"\"\n    log_dir = Path(log_dir)\n    log_dir.mkdir(exist_ok=True)\n    # Main formatter\n    formatter = logging.Formatter(\n        '[%(levelname)s] [%(asctime)s] [%(module)s:%(lineno)d] %(message)s',\n        datefmt='%Y-%m-%d %H:%M:%S'\n    )\n    # Root logger configuration",
+        "detail": "src.logs.logging_config",
+        "documentation": {}
+    }
+]

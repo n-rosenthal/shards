@@ -1,0 +1,2 @@
+# Liber LXV: *Liber Cordis Cincti Serpente Svb Figvra *ynda* (ADNI)*
+Liber LXV (*Coração cingido pela Serpente*) é um [[Os Libri de Thelema#Classificação|documento de Classe A]]. Seu título refere-se ao [[Lista de Nomes Divinos#Adonai|nome divino Adonai]].
