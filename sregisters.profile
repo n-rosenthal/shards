@@ -1,0 +1,1 @@
+export OBSIDIAN_VAULT_PATH="/home/nrdc/projects/shards/vaults/b/b"
